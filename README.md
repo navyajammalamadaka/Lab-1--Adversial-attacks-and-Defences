@@ -1,4 +1,4 @@
-Adversial-attacks-and-Defences
+# Adversial-attacks-and-Defences
 
 1. Investigated adversarial perturbation attacks on Deep Neural Networks using the MNIST digits dataset as a benchmark.
 2. Evaluated adversarial retraining as a defense against adversarial perturbations.
